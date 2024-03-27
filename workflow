@@ -1,3 +1,4 @@
+name: 'gitactions'
 on: [push]
 
 jobs:
